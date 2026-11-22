@@ -1,0 +1,22 @@
+{
+  "wheel_id": 942,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-117",
+  "project": "retaining-wall-repairs-toowoomba-checklist-f1f995a1a4acbd4acad0",
+  "parent_t1_ref": "toowoombaretainingwalls-158",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba checklist",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-repairs-toowoomba-checklist-f1f995a1a4acbd4acad0/",
+  "tier": "T2",
+  "writeback_nonce": "b4415e52eec875e1",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-repairs-toowoomba-common-mistakes-c93a7faa722d53.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Retaining Wall Repairs Toowoomba Common Mistakes: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
